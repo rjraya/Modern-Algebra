@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: trabajo1.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: trabajo1-blx.bib
+Database file #2: references.bib
+Biblatex version: 3.3
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 4 entries,
+            6256 wiz_defined-function locations,
+            1192 strings with 8936 characters,
+and the built_in function-call counts, 17020 in all, are:
+= -- 770
+> -- 1096
+< -- 101
++ -- 976
+- -- 812
+* -- 862
+:= -- 2103
+add.period$ -- 0
+call.type$ -- 4
+change.case$ -- 21
+chr.to.int$ -- 102
+cite$ -- 6
+duplicate$ -- 1539
+empty$ -- 1408
+format.name$ -- 151
+if$ -- 2981
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 97
+num.names$ -- 114
+pop$ -- 1027
+preamble$ -- 1
+purify$ -- 33
+quote$ -- 0
+skip$ -- 559
+stack$ -- 0
+substring$ -- 1284
+swap$ -- 417
+text.length$ -- 105
+text.prefix$ -- 2
+top$ -- 1
+type$ -- 124
+warning$ -- 0
+while$ -- 224
+width$ -- 0
+write$ -- 94
